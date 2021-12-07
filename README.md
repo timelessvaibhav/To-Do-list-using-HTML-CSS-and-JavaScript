@@ -5,5 +5,7 @@ A completely responsive simple To Do list created using HTML, CSS, Bootstrap and
 ## Preview Screenshots
 ### Desktop Preview
 <img src = "https://github.com/timelessvaibhav/To-Do-list-using-HTML-CSS-and-JavaScript/blob/main/Preview%20Screenshots/Screenshot%20(181).png">
+
 ### Mobile Phone Preview
+
 <img src = "https://github.com/timelessvaibhav/To-Do-list-using-HTML-CSS-and-JavaScript/blob/main/Preview%20Screenshots/Screenshot_2021-12-07-20-30-18-855_com.android.chrome%20(1).jpg">
