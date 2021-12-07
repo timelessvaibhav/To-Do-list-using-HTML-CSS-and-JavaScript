@@ -8,4 +8,4 @@ A completely responsive, simple To Do list created using **HTML, CSS, Bootstrap*
 
 ### Mobile Phone Preview
 
-<img src = "https://github.com/timelessvaibhav/To-Do-list-using-HTML-CSS-and-JavaScript/blob/main/Preview%20Screenshots/Screenshot_2021-12-07-20-30-18-855_com.android.chrome%20(1).jpg" width = "50" height = "50">
+<img src = "https://github.com/timelessvaibhav/To-Do-list-using-HTML-CSS-and-JavaScript/blob/main/Preview%20Screenshots/Screenshot_2021-12-07-20-30-18-855_com.android.chrome%20(1).jpg" width = "50" height = "80">
