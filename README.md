@@ -2,6 +2,9 @@
 
 A completely responsive, simple To Do list created using **HTML, CSS, Bootstrap** and **JavaScript** which keeps a track record of your tasks in your browser's local storage, this small project was developed by me when I just started to learn JavaScript for Web Development and wanted to have a glimpse of the basics
 
+## Preview
+https://timelessvaibhav.github.io/To-Do-list-using-HTML-CSS-and-JavaScript/
+
 ## Functionalities
 You can **add** a new task.<br>
 you can **delete** the completed tasks.
